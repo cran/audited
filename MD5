@@ -1,0 +1,16 @@
+acdd2497c6804e0bd1db7cc4bb97f1c5 *DESCRIPTION
+dc53cb861727947c5cd7dd11957e3836 *NAMESPACE
+355e7a1b042341932aeb4bbc48ad22c7 *R/audited.R
+8ec05151503b5cd3461bfd9e54bed8d9 *README.md
+fca49022f7fd0ba8c78dbbc895403707 *man/Ops.audited.Rd
+f5d240cc1ecab561dcf841fe21e05a47 *man/as.audited.Rd
+c8a6da8c5131f86218cdbaeeb6655e77 *man/as.igraph.Rd
+cdcd841e79b20d4148180d56fddc98ef *man/as.keyed.audited.Rd
+c8c250642f2c13d90377b52b8cb8ade3 *man/as.xlsx.artifact.Rd
+8abe4a10edc79a8e6ecc1f14a4750987 *man/audit.Rd
+eef0c04a7bfb8145bfa169686bb954e8 *man/audited-class.Rd
+5a605cb4e626b92c781d6d51b08d15c9 *man/audited-package.Rd
+4c276f07b421156b0ffd0b2e6317f092 *man/cast-methods.Rd
+57c3da1fa93cce0d7ccbda0ca13c1422 *man/melt.audited.Rd
+55453a37b60b8089731c07e15076c788 *man/subset.audited.Rd
+036bef00a6be9889ed0eba79e8159e67 *man/write.audit.Rd
